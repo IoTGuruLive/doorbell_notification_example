@@ -45,7 +45,7 @@ void loop()
 {
     if (pushed == 1) {
         HTTPClient http;
-        http.begin("http://api.iotguru.live/push/freeText/sTs5N5dlTmhbPT-ISHZApQ/Someone%20pushed%20the%door%20bell!");
+        http.begin("http://api.iotguru.live/push/freeText/sTs5N5dlTmhbPT-ISHZApQ/Someone%20pushed%20the%20door%20bell!");
         Serial.println("Result code: " + String(http.GET()));
         http.end();
 
