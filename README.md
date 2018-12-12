@@ -9,3 +9,5 @@ The variables of the API call:
 http://api.iotguru.live/push/freeText/{nodeKey}/{message}
 
 See the example HTTP call below (don't forget to replace values!).
+
+![Schema](https://github.com/IoTGuruLive/doorbell_notification_example/blob/master/images/notification.png)
