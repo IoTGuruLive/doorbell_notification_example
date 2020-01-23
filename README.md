@@ -7,6 +7,7 @@ The variables of the API call:
  * {message} - the message (URL encoded)
  
 Read the tutorial steps: https://iotguru.cloud/tutorials
+
 Check the REST API: https://iotguru.cloud/apidocs/push
 
 http://api.iotguru.cloud/push/freeText/{nodeKey}/{URL_encoded_message}
